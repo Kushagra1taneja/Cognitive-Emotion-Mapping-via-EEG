@@ -117,12 +117,3 @@ Here are some screenshots of the application.
 
 *(You can replace the placeholder images in the `images/` directory with your own screenshots.)*
 
-## Deployment
-
-This application is ready to be deployed on Streamlit Community Cloud.
-
-1.  Push your project to a GitHub repository.
-2.  Sign up for a Streamlit Community Cloud account.
-3.  Click "New app" and connect your GitHub account.
-4.  Select the repository and branch, and specify `app.py` as the main file.
-5.  Deploy!
