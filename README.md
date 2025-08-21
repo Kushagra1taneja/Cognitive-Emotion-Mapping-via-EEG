@@ -2,7 +2,8 @@
 
 This project is a Streamlit web application for emotion classification based on EEG (Electroencephalogram) data. It utilizes machine learning and deep learning models to predict emotional states (Positive, Negative, Neutral) from preprocessed EEG signals.
 
-![App Screenshot](images/screenshot.png)
+<img width="1919" height="1195" alt="Screenshot 2025-08-21 142458" src="https://github.com/user-attachments/assets/e5156c27-db60-4f99-a3f1-7a843ce666db" />
+
 
 ## Table of Contents
 - [Features](#features)
@@ -104,16 +105,16 @@ Your web browser should open with the application running at `http://localhost:8
 
 ## Screenshots
 
-Here are some screenshots of the application.
-
-**Main Dashboard:**
-![App Screenshot](images/screenshot.png)
+Here are some screenshots of the application (using sample data ).
 
 **Prediction Distribution:**
-![Graph 1](images/graph1.png)
+<img width="1850" height="1062" alt="Screenshot 2025-08-21 142806" src="https://github.com/user-attachments/assets/ada93454-e588-4d98-9f06-612bb3bc876e" />
+
+
+
 
 **Model Performance:**
-![Graph 2](images/graph2.png)
+<img width="1850" height="1112" alt="Screenshot 2025-08-21 142833" src="https://github.com/user-attachments/assets/3c1a86e6-c29e-4555-b35e-fbe17bea4c7b" />
 
-*(You can replace the placeholder images in the `images/` directory with your own screenshots.)*
+
 
